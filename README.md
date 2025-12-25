@@ -70,8 +70,8 @@ The script focuses on reliability, repeatability, and clear documentation—key 
 
 ```text
 +---------------------+
-|  User executes     |
-|  Bash script         |
+|  User executes      |
+|  Bash script        |
 +----------+----------+
            |
            v
